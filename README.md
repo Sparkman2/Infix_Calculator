@@ -1,6 +1,6 @@
 # Infix_Calculator
 
-You can run the project through the URCalculator Class.
+You can run the project through URCalculator.java
 
 This is an infix calculator that reads through a txt file with infix notation and created a calculator to return the evaluations of the infix. 
 
