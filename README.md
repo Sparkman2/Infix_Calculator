@@ -8,5 +8,4 @@ First I read the txt file and focused on one line at a time. Then it goes to the
 
 In the postfixcaluclator,we take the string we just made and take it to a queue. When something doesn’t have a space we read it until we find another space. I read 2 terms since there are usually 2 operands before an operator and kept reading until we hit an operator. Then we push them on a stack and pop the operands when we get an operator and evaluate the result.
 
-I also created my own classes of ADT instead of importing the class
-
+When the code finishes, it creates an file with the answers to the txt file
